@@ -14,5 +14,9 @@
 		"svelte": "^4.2.7",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"postcss": "^8.4.33",
+		"postcss-preset-env": "^9.3.0"
+	}
 }
